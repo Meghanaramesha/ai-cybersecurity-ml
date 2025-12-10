@@ -1,5 +1,23 @@
-GitBook_Content/.scrape_cache.json
-GitBook_Content/scrape.log
+# Ignore Python virtual environment
+venv/
 __pycache__/
 *.pyc
-.env
+*.pyo
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore OneDrive/system folders (optional)
+*.lnk
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
