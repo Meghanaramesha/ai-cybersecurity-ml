@@ -1,0 +1,5 @@
+GitBook_Content/.scrape_cache.json
+GitBook_Content/scrape.log
+__pycache__/
+*.pyc
+.env
